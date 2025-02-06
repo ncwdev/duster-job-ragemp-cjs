@@ -1,0 +1,8 @@
+bin/
+maps/
+node_modules/
+plugins/
+packages/person/persons/
+*.dll
+*.exe
+.listcache

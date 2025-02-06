@@ -1,0 +1,16 @@
+{
+  "name": "duster-job-ragemp-cjs",
+  "version": "1.0.0",
+  "description": "A minigame for RAGE Multiplayer.",
+  "author": "ncwdev",
+  "license": "MIT",
+  "dependencies": {
+    "rage-rpc": "^0.3.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-vue": "^9.27.0",
+    "globals": "^15.9.0"
+  }
+}
