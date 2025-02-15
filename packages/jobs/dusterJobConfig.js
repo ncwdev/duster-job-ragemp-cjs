@@ -52,5 +52,6 @@ const config = Object.freeze({
     pointBlipScale: 0.75,
     pointBlipName: 'Точка орошения',
     markerId: 6,
+    checkProximityTime: 100, // ms
 });
 module.exports = config;
